@@ -116,6 +116,10 @@ section {
     margin-bottom: 40px;
 }
 
+.mb-20 {
+    margin-bottom: 20px;
+}
+
 .mb-80 {
     margin-bottom: 60px;
 }
@@ -831,8 +835,8 @@ button.btn.btn-secondary.dropdown-toggle{
 }
 
 .l-banner-position-GB {
-    margin-top: 100px;
-    margin-bottom: 100px;
+    margin-top: 15px;
+    margin-bottom: 200px;
 }
 
 .m-position {
@@ -1873,6 +1877,13 @@ div.col-sm-2.col-6 {
     }
     .d-hidemm {
         display: none;
+    }
+    .font-size-m {
+        font-size: 24px;
+    }
+    .img-sizemobile {
+        height: 100px;
+        width: 252px;
     }
     .fix {
         height: auto;
